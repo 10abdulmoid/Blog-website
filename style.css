@@ -407,11 +407,11 @@ nav ul li a::before {
   .name-banner {
     text-align: center;
     color: white;
-    padding: 200px 20px 200px;
+    padding: 70px 20px 200px;
   }
   
   .name-highlight {
-    font-size: 6rem;
+    font-size: 4rem;
     font-weight: 900;
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
@@ -431,7 +431,7 @@ nav ul li a::before {
   
   .name-tagline {
     margin-top: 20px;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 500;
     color: #ccc;
     font-family: 'Segoe UI', sans-serif;
